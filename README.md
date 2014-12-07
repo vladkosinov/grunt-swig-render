@@ -39,7 +39,7 @@ grunt.initConfig({
 
 #### options.vars
 Type: `Object`
-Default value: `'{env: 'development'}'`
+Default value: `{env: 'development'}`
 
 Variables that are passed to templates
 
