@@ -1,7 +1,7 @@
 {
   "name": "grunt-swig-render",
   "description": "Grunt plugin for render Swig templates",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/vlkosinov/grunt-swig-render",
   "author": {
     "name": "Vlad Kosinov",
